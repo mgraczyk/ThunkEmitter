@@ -8,7 +8,6 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("SSA.InstrumentInterfaces")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Intel")]
 [assembly: AssemblyProduct("SSA.InstrumentInterfaces")]
 [assembly: AssemblyCopyright("Copyright © 2012")]
 [assembly: AssemblyTrademark("")]
@@ -18,10 +17,6 @@ using System.Runtime.InteropServices;
 // to COM components.  If you need to access a type in this assembly from 
 // COM, set the ComVisible attribute to true on that type.
 [assembly: ComVisible(false)]
-
-
-// The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("b803941d-fd25-4769-9dd2-b5d421a0a4d2")]
 
 // Version information for an assembly consists of the following four values:
 //
